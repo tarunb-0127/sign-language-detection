@@ -37,6 +37,7 @@ This project focuses on developing a real-time Sign Language Detection system us
 ## Dataset
 
 - The model is trained on mnist dataset, which includes a diverse set of hand gestures representing various sign language alphabets.
+- https://www.kaggle.com/datasets/datamunge/sign-language-mnist
 
 ## Model
 
